@@ -1,0 +1,14 @@
+{
+    "ff": {
+        "water_goal": 3000,
+        "water_drunk": 0
+    },
+    "Bomzik": {
+        "water_goal": 1560,
+        "water_drunk": 0
+    },
+    "\u0414\u0436\u043e\u043d\u044f": {
+        "water_goal": 1500,
+        "water_drunk": 1500
+    }
+}
